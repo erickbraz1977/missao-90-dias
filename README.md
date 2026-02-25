@@ -1,9 +1,13 @@
-# missao-90-dias - cloud & devOps
-este repositorio registra minha evolução no projeto de evoluão 90 dias focado em:
-- fundamentos de programação
-- linux
--  git
--  redes
--  docker
--  cloud (aws)
--  inicio fevereiro 2026
+# Missão 90 Dias - Cloud & DevOps Journey
+
+Este repositório registra minha evolução no plano de 90 dias focado em:
+
+- Fundamentos de programação
+- Linux
+- Git
+- Redes
+- Docker
+- Cloud (AWS)
+
+📅 Início: Fevereiro 2026  
+🎯 Objetivo: Construir base sólida para atuar em Cloud & DevOps
